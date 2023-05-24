@@ -90,7 +90,7 @@ input::-webkit-inner-spin-button
     width: 150px;
     height: 30px;
     border: 2px solid black;
-    background-color:rgb(151, 122, 248);
+    background-color:rgba(224, 244, 235, 0.785);
     color:black;
     border-radius: 5px;
     font-weight: bolder;
